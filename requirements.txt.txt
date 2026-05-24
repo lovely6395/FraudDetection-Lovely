@@ -1,3 +1,4 @@
+streamlit
 pandas
 numpy
 lightgbm
@@ -7,6 +8,5 @@ imbalanced-learn
 shap
 optuna
 plotly
-streamlit
 matplotlib
 seaborn
