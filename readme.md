@@ -13,7 +13,7 @@ cd dashboard
 streamlit run app.py
 
 ## Live Dashboard URL
-[Add your Streamlit Cloud URL here after deployment]
+https://frauddetection-lovely.streamlit.app/
 
 ## Project Structure
 - analysis.ipynb — main notebook with all 8 tasks
